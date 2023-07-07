@@ -1,0 +1,17 @@
+* {
+ box-sizing: border-box;   
+}
+
+body {
+    background-color: rgb(46, 106, 184);
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+button {
+color: rgb(37, 17, 78);
+    margin: 8;
+}
+
